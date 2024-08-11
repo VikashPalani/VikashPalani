@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikashpalani&label=Profile%20views&color=0e75b6&style=flat" alt="vikashpalani" /> </p>
 
-- 🔭 I’m currently working on **JavaScript**
+- 🔭 I’m currently working on **ReactJS**
 
-- 🌱 I’m currently learning **JavaScript and VueJS**
+- 🌱 I’m currently learning **NodeJS and DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/VikashPalani?tab=repositories](https://github.com/VikashPalani?tab=repositories)
 
-- 💬 Ask me about **Python and Java**
+- 💬 Ask me about **ReactJS and Python**
 
 - 📫 How to reach me **vikash1702palani@gmail.com**
 
